@@ -26,7 +26,8 @@
 4) Liver: 77.97% accurate
 5) Cancer : 94.74% accurate
 
-## Visit website of [Multiple Disease prediction system](https://multiple-disease-predictor1.herokuapp.com) to know more.
+## Need to know more
+contact me at justineopolot4@gmail.com
 
 
 ## Thank you for visiting :-)
