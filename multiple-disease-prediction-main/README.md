@@ -30,4 +30,4 @@
 contact me at justineopolot4@gmail.com
 
 
-## Thank you for visiting :-)
+## Thank you . Enjoy the system :-)
