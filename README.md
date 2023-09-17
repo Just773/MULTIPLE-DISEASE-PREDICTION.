@@ -1,4 +1,4 @@
-# MULTIPLE-DISEASE-PREDICTION.
+# ARTIFICIAL INTELLEGENT POWERED MULTIPLE DISEASE PREDICTION SYSTEM USING MACHINE LEARNING .
 The rationale of this study lies in addressing the critical need 
 for a comprehensive and accurate disease prediction system that can identify 
 individuals at risk ofmultiple diseases, including diabetes, kidney disease, lung cancer, liver disease, 
